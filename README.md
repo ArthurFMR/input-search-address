@@ -1,4 +1,8 @@
-# address-input
+# Address Searchin Input
+This is a tiny nuxt js project for consuming Google Map API. You can search addresses and the input suggests autocomplete address.
+
+# Demo
+https://input-search-address-arthur.netlify.app/
 
 ## Build Setup
 
@@ -19,5 +23,3 @@ $ npm run generate
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
-# Demo
-https://input-search-address-arthur.netlify.app/
